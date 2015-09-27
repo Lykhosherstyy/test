@@ -96,7 +96,7 @@ input::-webkit-inner-spin-button { display: none; }
 .top-menu .lang_switch { float: right; height: 35px; margin-top: 17px; }
 .top-menu .lang_switch:hover .selected + ul { visibility: visible; }
 .top-menu .lang_switch li { position: relative; width: 45px; padding: 0; }
-.top-menu .lang_switch li a { display: block; padding: 0 15px 0 5px; border: 1px solid #fff; line-height: 21px; font-family: MyriadPro-Regular; font-style: normal; font-weight: normal; font-size: 14px; }
+.top-menu .lang_switch li a { display: block; padding: 0 5px 0 5px; border: 1px solid #fff; line-height: 21px; font-family: MyriadPro-Regular; font-style: normal; font-weight: normal; font-size: 14px; }
 .top-menu .lang_switch li .selected:after { content: "\f107"; font-family: FontAwesome; position: relative; right: -5px; }
 .top-menu .lang_switch li ul { position: absolute; top: 25px; left: 0; visibility: hidden; }
 .top-menu .lang_switch li ul li { display: block; width: 45px; border-top: 1px solid #000; }
