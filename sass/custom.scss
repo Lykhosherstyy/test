@@ -82,3 +82,9 @@ a{
     padding-left: 15px;
     padding-right: 15px;
 }
+input{
+	 -moz-appearance: textfield;
+}
+input::-webkit-inner-spin-button { 
+  display: none;
+}
